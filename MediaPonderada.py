@@ -1,3 +1,5 @@
+#Esse arquivo é de um código que simula uma calculadora de média ponderada baseada no cálculo de nota das matérias da
+# minha faculdade#
 #Juntando informações sobre a matéria
 def infoMateria():
     nomeMateria = input("Insira o nome da matéria: ")
